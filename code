@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+   <body>
+     
+      <div>
+         <!-- write code here -->
+         <h1>Hello World</h1>
+         <h1> This is the website😎😎😎 </h1>
+         <p> SO roblox is a really cool site where you play games and you can also amke your own games and               publish them on roblox.</p>
+         <button> susssy </button>
+      </div>
+      <br>
+      <img src="images/download (6).jpg">
+      <!-- code ends here -->
+     
+   </body>
+  
+</html>
+
+
+
+
+
+<style>
+   body {
+   background-color: #c2c2c2;
+   font-family: Arial, Helvetica, sans-serif;
+   }
+  
+   button{
+   background-color: #b64545;
+   height: 50px;
+   width: 150px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+  
+   img{
+     border-radius: 20px;
+     border-color: red;
+     
+   }
